@@ -1,0 +1,12 @@
+
+ //g++ *.cpp -o main
+ //.\main
+
+int a = 1;
+int b = 5;
+
+while (a < b) {
+    print(a);
+    a = a + 1;
+}
+END
